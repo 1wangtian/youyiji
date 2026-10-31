@@ -1,0 +1,20 @@
+{
+  "name": "游艺集",
+  "short_name": "游艺集",
+  "description": "22 款单机小游戏合集：五子棋、斗地主、象棋、围棋、消消乐、俄罗斯方块、迷宫、打靶等",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
